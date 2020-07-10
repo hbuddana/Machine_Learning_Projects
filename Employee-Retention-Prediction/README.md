@@ -4,6 +4,7 @@ Want to know which employee has the probability of leaving the company? Check ou
 
 ## Description : 
 - Dataset is collected from kaggle.com
+
 Employee churn is a major problem for many firms these days. Great talent is scarce, hard to keep and in high demand. Given the well-known direct relationship between happy employees and happy customers, it becomes of utmost importance to understand the drivers of employee dissatisfaction.
 
 This post emphasizes on predicting retention of an employee within an organization such that whether the employee will leave the company or continue with it. It uses the data of previous employees who have worked for the company and by finding a pattern it predicts the retention in the form of yes or no.
