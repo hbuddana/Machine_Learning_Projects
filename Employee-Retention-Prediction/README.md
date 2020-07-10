@@ -23,7 +23,11 @@ The parameters we are using, such as salary, number of years spent in the compan
 - sales: Department the employee works for.
 - salary: Relative level of salary {low, medium, high}.
 
-![DATA](Images/download(1).png)
+![DATA](Images/data1.png)
+
+
+
+![DATA](Images/data2.png)
 
 
 To check the accuracy of different algorithms, so as to pick the best model. I have tried the following three models on the dataset.
