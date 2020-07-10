@@ -22,7 +22,7 @@ The parameters we are using, such as salary, number of years spent in the compan
 - sales: Department the employee works for.
 - salary: Relative level of salary {low, medium, high}.
 
-[![ForTheBadge built-with-SWAG](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-SWAG](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/hbuddana/)
 
 
 
