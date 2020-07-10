@@ -21,3 +21,10 @@ The parameters we are using, such as salary, number of years spent in the compan
 - promotion_last_5years: Whether the employee was promoted in the last five years.
 - sales: Department the employee works for.
 - salary: Relative level of salary {low, medium, high}.
+
+[![ForTheBadge built-with-SWAG](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+
+
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
