@@ -1,6 +1,7 @@
 # Employee-Retention-Prediction
 Want to know which employee has the probability of leaving the company? Check out this ML model which gives best prediction.
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Description : 
 - Dataset is collected from kaggle.com
@@ -22,9 +23,18 @@ The parameters we are using, such as salary, number of years spent in the compan
 - sales: Department the employee works for.
 - salary: Relative level of salary {low, medium, high}.
 
-[![ForTheBadge built-with-SWAG](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/hbuddana/)
+To check the accuracy of different algorithms, so as to pick the best model. I have tried the following three model on the dataset.
+
+| ALGORITHM      | SCORE 
+| :---        |    :----:   
+| KNN     |      94.17 %
+| SVM |          94.51 %
+| DECISION TREE |97.09 %
+
+## 🌲🌳 **DECISION TREE** PERFORMS WELL ON THIS EMPLOYEE RETENTION DATASET WITH AN ACCURACY OF 97.09 % 🌲🌳
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/hbuddana/)
 
 
 
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
