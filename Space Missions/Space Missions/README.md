@@ -1,0 +1,1 @@
+The “space race” was a Cold War competition between the United States and the Soviet Union to develop aerospace capabilities, including artificial satellites, unmanned space probes, and human spaceflight.
