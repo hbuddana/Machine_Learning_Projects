@@ -19,3 +19,12 @@
 - Status Mission: Status of the mission
 
 ![DATA](images/spacex.jpg)
+ 
+ ## Data Visualization 
+ 
+ ![DATA](images/d1.png)
+ 
+ 
+ 
+ 
+ ![DATA](images/d2.png)
