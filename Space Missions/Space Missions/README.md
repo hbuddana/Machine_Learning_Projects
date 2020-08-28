@@ -10,12 +10,12 @@
 
 ## The dataset consists of following columns:
 
--Company: Name.
--Location: Location of Launch place.
--Datum: Date and Time of Launch.
--Detail: Rocket Name.
--Status Rocket: Status of the Rocket.
--Rocket: Cost of the mission: in $ million.
--Status Mission: Status of the mission.
+- Company: Name
+- Location: Location of Launch place
+- Datum: Date and Time of Launch
+- Detail: Rocket Name
+- Status Rocket: Status of the Rocket
+- Rocket: Cost of the mission: in $ million
+- Status Mission: Status of the mission
 
 ![DATA](images/spacex.jpg)
