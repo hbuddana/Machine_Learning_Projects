@@ -34,11 +34,11 @@ To check the accuracy of different algorithms, so as to pick the best model. I h
 
 | ALGORITHM      | SCORE 
 | :---        |    :----:   
-| KNN     |      94.17 %
+| KNN     |      92.17 %
 | SVM |          94.51 %
-| DECISION TREE |97.09 %
+| DECISION TREE |96.49 %
 
-## 🌲🌳 **DECISION TREE** PERFORMS WELL ON THIS EMPLOYEE RETENTION DATASET WITH AN ACCURACY OF 97.09 % 🌲🌳
+## 🌲🌳 **DECISION TREE** PERFORMS WELL ON THIS EMPLOYEE RETENTION DATASET WITH AN ACCURACY OF 96.49 % 🌲🌳
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/hbuddana/)
 
